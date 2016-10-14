@@ -2,4 +2,9 @@
 # Ignore temp files  
 .idea
 out
+<<<<<<< HEAD
 *.iml
+.gitignore
+=======
+FirstClass.iml
+>>>>>>> 491cd2b9115cf866c19f35e12ebcf823213cc99e
